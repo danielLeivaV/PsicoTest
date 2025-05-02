@@ -59,7 +59,7 @@ Cada test se responde en una sola página, con envío automático y registro de 
 ![login](./assets/inicio.png)
 
 ### Login por rol  
-![login](./assets/login.png)
+![login](./assets/login_v1.png)
 
 ### Aplicación del test por el paciente  
 ![formulario-test](./assets/test_formulario.png)
